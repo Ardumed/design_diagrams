@@ -1,0 +1,31 @@
+[Fri May 06 2016 15:57:09 GMT+0530 (IST)] INFO Requests: 0, requests per second: 0, mean latency: 0 ms
+[Fri May 06 2016 15:57:14 GMT+0530 (IST)] INFO Requests: 97, requests per second: 19, mean latency: 600 ms
+[Fri May 06 2016 15:57:19 GMT+0530 (IST)] INFO Requests: 200, requests per second: 21, mean latency: 640 ms
+[Fri May 06 2016 15:57:24 GMT+0530 (IST)] INFO Requests: 297, requests per second: 19, mean latency: 600 ms
+[Fri May 06 2016 15:57:29 GMT+0530 (IST)] INFO Requests: 400, requests per second: 21, mean latency: 600 ms
+[Fri May 06 2016 15:57:34 GMT+0530 (IST)] INFO Requests: 497, requests per second: 19, mean latency: 600 ms
+[Fri May 06 2016 15:57:39 GMT+0530 (IST)] INFO Requests: 600, requests per second: 21, mean latency: 600 ms
+[Fri May 06 2016 15:57:44 GMT+0530 (IST)] INFO Requests: 697, requests per second: 19, mean latency: 590 ms
+[Fri May 06 2016 15:57:49 GMT+0530 (IST)] INFO Requests: 800, requests per second: 21, mean latency: 590 ms
+[Fri May 06 2016 15:57:54 GMT+0530 (IST)] INFO Requests: 897, requests per second: 19, mean latency: 600 ms
+[Fri May 06 2016 15:57:59 GMT+0530 (IST)] INFO Requests: 1000, requests per second: 21, mean latency: 600 ms
+[Fri May 06 2016 15:58:04 GMT+0530 (IST)] INFO Requests: 1097, requests per second: 19, mean latency: 600 ms
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO 
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Target URL:          http://ardumed.herokuapp.com
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Max time (s):        60
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Concurrency level:   40
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Agent:               none
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Requests per second: 20
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO 
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Completed requests:  1200
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Total errors:        0
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Total time:          60.00911595 s
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Requests per second: 20
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Total time:          60.00911595 s
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO 
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO Percentage of the requests served within a certain time
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO   50%      597 ms
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO   90%      622 ms
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO   95%      631 ms
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO   99%      661 ms
+[Fri May 06 2016 15:58:09 GMT+0530 (IST)] INFO  100%      1889 ms (longest request)
